@@ -21,9 +21,8 @@ Imagine one and tell us about it!
 
 ## ✨ Example / 例
 
-- Real pet / 本物：Mugi（Cat）  
-- Imaginary pet / 空想：Zappa — A flying fox that eats clouds  
-　ザッパ：雲を食べる空飛ぶキツネ
+- Real pet / 本物：Mugi — Cat / むぎ — 猫
+- Imaginary pet / 空想：Zappa — A flying fox that eats clouds / ザッパ — 雲を食べる空飛ぶキツネ
 
 ---
 
@@ -31,6 +30,6 @@ Imagine one and tell us about it!
 
 👇👇👇 以下に続けて書いてください！👇👇👇
 
-- Real pet / 本物：〇〇（犬） 
+- Real pet / 本物：〇〇 — 犬
 - Imaginary pet / 空想：△△えもん — ネコ型ロボット
 
