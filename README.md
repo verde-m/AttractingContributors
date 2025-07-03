@@ -1,5 +1,31 @@
-# Please indicate your favourite places to eat near NAIST.
+# 🐾 What's your pet's name? (Real or Imaginary OK!)/🐾 あなたのペットの名前は？（本物でも空想でもOK！）
 
-# List of place
-- mamemame saisai
-- Gusto
+## 📌 Question / 質問
+
+Tell us about your pet — real or imaginary!  
+ペットについて教えてください！本物でも空想でもOKです。
+
+### 🐶 If you have a real pet / 飼っている人：
+- Pet's name / ペットの名前：
+- Species / 種類（例：犬、猫など）：
+
+### 🦄 If you **don’t** have a pet / 飼っていない人：
+Imagine one and tell us about it!  
+空想のペットを自由に考えて紹介してください！
+
+- Name / 名前：
+- Type / どんな生き物？（動物でも、それ以外でもOK）
+- Personality or ability / 性格や特技：
+
+---
+
+## ✨ Example / 例
+
+- Real pet / 本物：Mugi（Cat）
+- Imaginary pet / 空想：Zappa — A flying fox that eats clouds  
+　ザッパ：雲を食べる空飛ぶキツネ
+
+---
+
+I’m excited to hear about your pets! 🐕‍🦺🐈🦜🦖  
+みなさんのペット、楽しみにしています！
