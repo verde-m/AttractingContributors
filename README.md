@@ -32,4 +32,6 @@ Imagine one and tell us about it!
 
 - Real pet / 本物：〇〇 — 犬
 - Imaginary pet / 空想：△△えもん — ネコ型ロボット
+- Imaginary pet / 空想：FLOMOX — Big white fluffy dog / フロモックス — 白くてモフモフの大きい犬
+
 
