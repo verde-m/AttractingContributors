@@ -36,4 +36,5 @@ Imagine one and tell us about it!
 - Imaginary pet: Doraemon　-　cat-shaped robot
 - Imaginary pet: ハロ　-　小型の球形ロボット。時にガン◯ムを操縦する。
 - Real pets / 本物: 青ちゃん　白ちゃん　- セキセイインコ
+- Imaginary pet / 空想：Minigon - Mini size dragon / ミニゴン - 小さいドラゴン
 
