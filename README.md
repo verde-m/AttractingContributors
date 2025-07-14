@@ -2,3 +2,5 @@
 
 # List of place
 - Pom Pom Purin
+
+- Kuromi
