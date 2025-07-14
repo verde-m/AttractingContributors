@@ -34,5 +34,5 @@ Imagine one and tell us about it!
 - Imaginary pet / 空想：△△えもん — ネコ型ロボット
 - Imaginary pet / 空想：FLOMOX — Big white fluffy dog / フロモックス — 白くてモフモフの大きい犬
 - Imaginary pet: Doraemon　-　cat-shaped robot
-- Imaginary pet: ハロ　-　小型の球形ロボット。時にガン◯ムを操縦する。
+- Imaginary pet / 空想：Minigon - Mini size dragon / ミニゴン - 小さいドラゴン
 
